@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Coach AI",
+  "description": "An intelligent chat application powered by Gemini 3 Pro, pre-configured as an expert crypto marketing strategist.",
+  "requestFramePermissions": []
+}
